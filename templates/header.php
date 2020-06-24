@@ -4,7 +4,7 @@
 <head>
   <!-- variable of $base_url is to standardize of link -->
   <?php
-  $base_url = "http://192.168.0.196/a-police-structured/";
+  $base_url = "http://localhost/a-police-structured/";
   ?>
   <!-- Required meta tags -->
   <meta charset="utf-8">
